@@ -125,19 +125,21 @@ footer{
 			list-style: none;
 		}
 
-		#praise{
+		.praise{
 			width: stretch;
+			text-align: center;
 		}
 
-		#praise p{
+		.praise p{
 			width: 100%;
+			margin: auto;
 		}
 
-		footer{
-			width: stretch;
-		}
-
-		footer p{
-			width: 100%;
+		#page-footer:after {
+			text-align: center;
+		    color: #000000;
+		    content: "© 2020, Kabiyesi Tech. All rights reserved.";
+		    bottom: 20px;
+		    width: 100%;
 		}
 }
