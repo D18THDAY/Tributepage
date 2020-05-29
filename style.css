@@ -125,8 +125,16 @@ footer{
 			list-style: none;
 		}
 
+		#praise{
+			width: stretch;
+		}
+
 		#praise p{
 			width: 100%;
+		}
+
+		footer{
+			width: stretch;
 		}
 
 		footer p{
