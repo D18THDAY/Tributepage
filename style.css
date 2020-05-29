@@ -142,4 +142,13 @@ footer{
 		    bottom: 20px;
 		    width: 100%;
 		}
+
+		#disclaimer{
+			width: 100%;
+		}
+
+		#disclaimer p{
+			width: 80%;
+			margin: auto;
+		}
 }
